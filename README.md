@@ -12,13 +12,29 @@ The list of favorite books is stored in a file named "book_list.txt," which is c
 </p>
 
 The SQLite database is stored in a file named "listedeslivres.db," located next to the program.
+<p align="center">
+<img src="listedeslivres.png" alt="drawing" width="700"/>
+</p>
+
 
 # Commands:
 
 show: This command displays a comprehensive list of the most famous books in history. Each book is identified by an ID, and includes a title and the name of the author.
+<p align="center">
+<img src="showcommand.png" alt="drawing" width="700"/>
+</p>
 
 id: This command enables users to select a book from the list and add it to their list of favorite books.
+<p align="center">
+<img src="idcommand.png" alt="drawing" width="700"/>
+</p>
 
 liste: This command shows the names of the books in the favorite list.
+<p align="center">
+<img src="listecommand.png" alt="drawing" width="700"/>
+</p>
 
 close: This command terminates the program.
+<p align="center">
+<img src="closecommand.png" alt="drawing" width="700"/>
+</p>
