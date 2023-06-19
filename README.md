@@ -19,22 +19,22 @@ The SQLite database is stored in a file named "listedeslivres.db," located next 
 
 # Commands:
 
-show: This command displays a comprehensive list of the most famous books in history. Each book is identified by an ID, and includes a title and the name of the author.
+** Show : This command displays a comprehensive list of the most famous books in history. Each book is identified by an ID, and includes a title and the name of the author.
 <p align="center">
 <img src="showcommand.png" alt="drawing" width="400"/>
 </p>
 
-id: This command enables users to select a book from the list and add it to their list of favorite books.
+*   Id: This command enables users to select a book from the list and add it to their list of favorite books.
 <p align="center">
 <img src="idcommand.png" alt="drawing" width="400"/>
 </p>
 
-liste: This command shows the names of the books in the favorite list.
+* # Liste: This command shows the names of the books in the favorite list.
 <p align="center">
 <img src="listecommand.png" alt="drawing" width="400"/>
 </p>
 
-close: This command terminates the program.
+* # Close: This command terminates the program.
 <p align="center">
 <img src="closecommand.png" alt="drawing" width="500"/>
 </p>
