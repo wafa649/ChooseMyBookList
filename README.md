@@ -8,12 +8,12 @@ The program automatically saves the list of favorite books, allowing easy access
 
 The list of favorite books is stored in a file named "book_list.txt," which is created alongside the program.
 <p align="center">
-<img src="book_list.png" alt="drawing" width="500"/>
+<img src="book_list.png" alt="drawing" width="400"/>
 </p>
 
 The SQLite database is stored in a file named "listedeslivres.db," located next to the program.
 <p align="center">
-<img src="listedeslivres.png" alt="drawing" width="400"/>
+<img src="listedeslivres.png" alt="drawing" width="370"/>
 </p>
 
 
